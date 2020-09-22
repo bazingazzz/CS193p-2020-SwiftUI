@@ -1,0 +1,104 @@
+[
+    {   "id" : 1000,
+        "name": "Halloween",
+        "emojis": ["👻","🎃","🕷","🧟‍♂️","🧛🏼‍♀️","☠️","👽","🦹‍♀️","🦇","🌘","⚰️","🔮"],
+        "DeletedEmojis": [],
+        "colors": "orange",
+        "noOfPairs": 8,
+        "colorRGB": {
+            "red": 1.011,
+            "green": 0.330,
+            "blue": -0.003,
+            "alpha": 1.0
+        },
+        "lastScore" : 0,
+        "bestScore" : 0,
+        "noOfPairsOfCards" : 16,
+        "bonusTimeLimit" : 7
+    },
+    {   "id" : 1001,
+        "name": "Flags",
+        "emojis": ["🇸🇬","🇯🇵","🏴‍☠️","🏳️‍🌈","🇬🇧","🇨🇦","🇺🇸","🇦🇶","🇰🇵","🇭🇰","🇲🇨","🇼🇸"],
+        "DeletedEmojis": [],
+        "colors": "red",
+        "noOfPairs": 10,
+        "colorRGB": {
+            "red": 0.845,
+            "green": 0.092,
+            "blue": 0.123,
+            "alpha": 1.0
+        },
+        "lastScore" : 0,
+        "bestScore" : 0,
+        "noOfPairsOfCards" : 16,
+        "bonusTimeLimit" : 7
+    },
+    {   "id" : 1002,
+        "name": "Animals",
+        "emojis": ["🦑","🦧","🦃","🦚","🐫","🦉","🦕","🦥","🐸","🐼","🐺","🦈"],
+        "DeletedEmojis": [],
+        "colors": "green",
+        "noOfPairs": 8,
+        "colorRGB": {
+            "red": 0.140,
+            "green": 0.210,
+            "blue": 0.510,
+            "alpha": 1.0
+        },
+        "lastScore" : 0,
+        "bestScore" : 0,
+        "noOfPairsOfCards" : 16,
+        "bonusTimeLimit" : 7
+    },
+    {   "id" : 1003,
+        "name": "Places",
+        "emojis": ["🗽","🗿","🗼","🎢","🌋","🏝","🏜","⛩","🕍","🕋","🏯","🏟"],
+        "DeletedEmojis": [],
+        "colors": "purple",
+        "noOfPairs": 8,
+        "colorRGB": {
+            "red": 0.893,
+            "green": 0.830,
+            "blue": 0.050,
+            "alpha": 1.0
+        },
+        "lastScore" : 0,
+        "bestScore" : 0,
+        "noOfPairsOfCards" : 16,
+        "bonusTimeLimit" : 7
+    },
+    {   "id" : 1004,
+        "name": "Sports",
+        "emojis": ["🤺","🏑","⛷","⚽️","🏀","🪂","🥏","⛳️","🛹","🎣","🏉","🏓"],
+        "DeletedEmojis": [],
+        "colors": "blue",
+        "noOfPairs": 8,
+        "colorRGB": {
+            "red": 0.114,
+            "green": 0.725,
+            "blue": 0.329,
+            "alpha": 1.0
+        },
+        "lastScore" : 0,
+        "bestScore" : 0,
+        "noOfPairsOfCards" : 16,
+        "bonusTimeLimit" : 7
+    },
+    {   "id" : 1005,
+        "name": "Foods",
+        "emojis": ["🌮","🍕","🍝","🍱","🍪","🍩","🥨","🥖","🍟","🍙","🍢","🍿"],
+        "DeletedEmojis": [],
+        "colors": "yellow",
+        "noOfPairs": 10,
+        "colorRGB": {
+            "red": 0.297,
+            "green": 0.146,
+            "blue": 0.439,
+            "alpha": 1.0
+        },
+        "lastScore" : 0,
+        "bestScore" : 0,
+        "noOfPairsOfCards" : 16,
+        "bonusTimeLimit" : 7
+    }
+]
